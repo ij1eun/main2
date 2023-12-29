@@ -1,0 +1,212 @@
+@charset "utf-8";
+/**=css의 모든 전체 태그, ul태그는 블록요소라 안 뜸, image태그는 인라인 요소라 둥둥 뜸*/
+body{
+    /*width: 1800px;*/
+}
+
+a{
+    text-decoration: none;
+}
+header{
+    margin: 100px;
+}
+ul{
+    list-style: none;
+    /*display: flex;
+    justify-content: space-between;
+    width: 400px;
+    display: inline;*/
+}
+li{
+    display: inline-block;
+    /*list-style-image: url('img/menu1.png');*/
+}
+#menu{
+    float: right;
+    margin-right: 50px;
+}
+.m{
+    vertical-align: center;
+    margin: 0px;
+}
+#logo{
+    clear: both;
+    margin-top: 200px;
+}
+header img{
+    /*margin: 250px 200px;*/
+}
+header li{
+    text-
+}
+#logo{
+    margin-top: 50px;
+}
+#sky1{
+    margin-left: 160px;
+    margin-top: 15px;
+}
+#sky2{
+    margin-left: 150px;
+    margin-top: 15px;
+}
+/*h2{
+    margin-top: 150px;
+    margin-left: 900px;
+}
+h3{    
+    margin-left: 900px;
+}*/
+/*main*/
+#choi{
+    margin-bottom: 200px;
+}
+
+#about{
+    float: right;
+    padding-left: 30px;
+    padding-top: 80px;
+}
+#profile{
+    float: right;
+    padding-left: 250px;
+    padding-right: 70px;
+   padding-top: 50px;
+
+}
+#pickman{
+    padding-top: 20px;
+}
+
+#p{
+    clear: both;
+    /*position: absolute;*/
+}
+
+#character{
+    padding-left: 1000px;
+    padding-bottom: 50px;
+}
+
+/*article*/
+#skillt{
+    padding-top: 100px;
+    padding-left: 900px;
+}
+#skills{
+    padding-top: 80px;
+    padding-left: 900px;
+}
+#license{
+    padding-top: 100px;
+    margin-left: 700px;
+    padding-bottom: 30px;
+}
+#lic{
+    text-align: center;
+    position: absolute;
+    top:2720px;
+    left: 790px;
+}
+/*section{
+    display: flex;
+    justify-content: space-around;
+}*/
+ 
+/*개구리 포트폴리오*/
+
+#frog{
+    padding: 50px 900px;
+}
+#p1 > img{
+    margin: 10px 10px;
+    padding: 100px;
+}
+#p2 > img{
+    padding: 100px;
+    padding-bottom: ;
+}
+
+
+#p1, #p2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+footer{
+    padding-left: 500px;
+}
+#con{
+    padding-left: 500px;
+    padding: 50px;
+
+}
+#name{
+    text-align: center;
+    position: absolute;
+    top:4350px;
+    left: 790px;
+    font-size: larger;
+}
+#birth{
+    text-align: center;
+    position: absolute;
+    top:4370px;
+    left: 900px;
+}
+#call{
+    position: absolute;
+    top:4450px;
+    left: 780px;
+}
+#copy{
+    text-align: center;
+    position: absolute;
+    top:4650px;
+    left: 750px;
+    font-size: small;
+}
+#right{
+    text-align: center;
+    position: absolute;
+    top:4700px;
+    left: 600px;
+    font-size: small;
+
+}
+.fi{
+    padding: 150px;
+    margin-left: 600px;
+}
+/*`
+main{
+    clear: both;
+    height: 500px;
+}
+main img{
+    float: left;
+}
+#charecter{
+    float: right;
+}
+#About{
+    clear: both;
+}
+#character_T{
+    clear: both;
+    float: right;
+}
+article{
+    height: 500px;
+
+}
+section{
+    height: 500px;
+}
+footer{
+    height: 500px;
+}
+img  #Contact_logo{
+    justify-content: center;
+}*/
